@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ANDROID_PROJECT3</string>
+    <string name="ankit_patil">Ankit Patil</string>
+    <string name="todo">TODO</string>
+    <string name="scan">scan</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="Home">Home\n</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="welcome_to_purely">WELCOME TO PUREly</string>
+    <string name="Title">PRODUCT TITLE : </string>
+    <string name="barcode">Barcode</string>
+    <string name="addProduct">Add Product</string>
+    <string name="upc">UPC / EAN-13</string>
+    <string name="description">PRODUCT DESCRIPTION :</string>
+    <string name="addImage">ADD IMAGES :</string>
+    <string name="sustainableRatings">SUSTAINABILITY RATINGS :</string>
+    <string name="review">PRODUCT REVIEW :</string>
+    <string name="sustainalbilityInfo">SUSTAINABILITY INFORMATION </string>
+</resources>

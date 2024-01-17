@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="200dp"
+    android:layout_height="100dp"
+    android:layout_margin="4dp"
+    android:orientation="vertical"
+    android:background="@drawable/rounded_corners"
+    android:id="@+id/reviewLayout"
+    android:padding="8dp">
+
+    <ScrollView
+        android:layout_width="200dp"
+        android:layout_height="100dp">
+
+        <TextView
+            android:id="@+id/reviewText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=""
+            android:textColor="#000000"
+            android:textSize="16sp"
+            />
+
+    </ScrollView>
+
+</LinearLayout>
+
+
+    <!--</androidx.constraintlayout.widget.ConstraintLayout>-->

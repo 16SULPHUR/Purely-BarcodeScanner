@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/baseline_home_24"
+            android:title="@string/Home" />
+        <item
+            android:id="@+id/nav_scan"
+            android:icon="@drawable/baseline_document_scanner_24"
+            android:title="@string/scan" />
+<!--        <item-->
+<!--            android:id="@+id/nav_add_item"-->
+<!--            android:icon="@drawable/baseline_document_scanner_24"-->
+<!--            android:title="@string/addProduct" />-->
+    </group>
+</menu>
